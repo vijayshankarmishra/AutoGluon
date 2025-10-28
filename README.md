@@ -1,4 +1,4 @@
-# AutoGluon Fraud Detection Pipeline — README
+# AutoGluon Fraud Detection Pipeline
 
 This README explains, step by step, what each part of your **Google Colab / Jupyter** notebook does.  
 Shell commands (lines starting with `!`) are meant for Colab notebooks.
