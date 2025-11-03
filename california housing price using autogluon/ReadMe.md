@@ -11,3 +11,5 @@ It provides a practical, fast baseline you can run in **Google Colab** or **loca
 4. **Model training** (AutoGluon `TabularPredictor` with a small time budget)
 5. **Evaluation** (RMSE on an unseen holdout; optional dollar-scale RMSE)
 6. **Prediction + export** (creates `submission.csv`)
+
+### Here is the video for explanation : https://drive.google.com/drive/folders/1KPqvk5hlPohl5WU5OqTWx6mAh-xWdMx8
